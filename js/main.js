@@ -98,3 +98,4 @@ btn_stop_color.addEventListener("click", () => {
 
   clearInterval(color_interval);
 });
+//Final
